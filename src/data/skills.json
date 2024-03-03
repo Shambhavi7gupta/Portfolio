@@ -1,0 +1,50 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "../../assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "../../assets/skills/css.png"
+    },
+    {
+      "title": "React JS",
+      "imageSrc": "../../assets/skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "../../assets/skills/node.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "../../assets/skills/javascript.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "../../assets/skills/Cpp.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "../../assets/skills/mongodb.png"
+    },
+    {
+      "title": "Firebase",
+      "imageSrc": "../../assets/skills/firebase.png"
+    },
+    {
+      "title": "APIs",
+      "imageSrc": "../../assets/skills/api.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "../../assets/skills/figma.png"
+    },
+    {
+      "title": "Canva",
+      "imageSrc": "../../assets/skills/canva.png"
+    },
+    {
+      "title": "Mircosoft Office",
+      "imageSrc": "../../assets/skills/office.png"
+    }
+  ]

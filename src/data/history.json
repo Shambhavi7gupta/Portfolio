@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Raisoni Institute's Brio Toastmasters Club",
+      "organisation": "Secretary",
+      "startDate": "Nov, 2022",
+      "endDate": "Oct, 2023",
+      "experiences": ["Documented the Minutes of Meeting" , "Created a detailed report of the club meeting", "Delivering speeches and impromptu round."],
+      "imageSrc": "../../assets/history/Toastmasters.png"
+    },
+    {
+      "role": "IEEE Computer Society (IEEE CS)",
+      "organisation": "Execom Lead",
+      "startDate": "June, 2021",
+      "endDate": "June, 2022",
+      "experiences": ["Managed and organized events seamless execution.", "Conducted sessions as a host", "Led content writing, poster creation, and social activities"],
+      "imageSrc": "../../assets/history/ieee1.png"
+    }
+   
+  ]
