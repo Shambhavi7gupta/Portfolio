@@ -44,7 +44,8 @@
       "imageSrc": "../../assets/skills/canva.png"
     },
     {
-      "title": "Mircosoft Office",
-      "imageSrc": "../../assets/skills/office.png"
+      "title": "Microsoft Office",
+      "imageSrc": "../../public/assets/skills/Office.png"
     }
+   
   ]
